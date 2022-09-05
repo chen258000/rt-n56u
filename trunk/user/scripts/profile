@@ -19,3 +19,5 @@ alias ps='ps ww'
 alias ls='ls -hF --color=auto'
 alias ll='ls -AlhF --color=auto'
 alias htop='htop -t'
+alias clash="sh /media/AiDisk_a1/clash/clash.sh"
+export clashdir="/media/AiDisk_a1/clash/"
